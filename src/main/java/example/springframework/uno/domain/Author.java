@@ -3,7 +3,7 @@ package example.springframework.uno.domain;
 import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
-
+// Kotlin is sow much better than Java T_T
 @Entity
 public class Author {
     @Id
